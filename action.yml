@@ -1,0 +1,9 @@
+name: 'AppCenter CodePush iOS/Android for React Native'
+description: 'GitHub Action for AppCenter CodePush for React Native'
+author: 'Kirill Glushchenko'
+branding:
+  color: 'red' 
+  icon: 'send'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
